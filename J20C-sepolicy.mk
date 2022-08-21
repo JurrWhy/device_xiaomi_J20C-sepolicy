@@ -20,7 +20,8 @@ BOARD_VENDOR_SEPOLICY_DIRS += \
 SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += \
     device/xiaomi/J20C-sepolicy/audio/private \
     device/xiaomi/J20C-sepolicy/camera/private \
-    device/xiaomi/J20C-sepolicy/common/private
+    device/xiaomi/J20C-sepolicy/common/private \
+    device/xiaomi/J20C-sepolicy/power/private
 
 SYSTEM_EXT_PUBLIC_SEPOLICY_DIRS += \
     device/xiaomi/J20C-sepolicy/camera/public
